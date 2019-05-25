@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-themes",
+  "version": "0.1.0",
+  "description": "Custom Gatsby themes",
+  "main": "index.js",
+  "repository": "https://github.com/horacioh/gatsby-themes",
+  "author": "Horacio Herrera <hi@horacioh.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "themes/@horacioh/*",
+    "examples/*"
+  ]
+}
